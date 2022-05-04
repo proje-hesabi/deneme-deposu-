@@ -42,5 +42,5 @@ giriş_butonu.pack(anchor=S)
 
 master.mainloop()
 print("yazdım oldumu")
-
+print("yapabiliyorum")
 
